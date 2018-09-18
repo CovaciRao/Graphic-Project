@@ -1,0 +1,11 @@
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.Form1.resources
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.Properties.Resources.resources
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.csproj.GenerateResource.cache
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\bin\Debug\GraphicProject.exe.config
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\bin\Debug\GraphicProject.exe
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\bin\Debug\GraphicProject.pdb
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.exe
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.pdb
+C:\Users\vlad1\source\repos\GraphicProject\GraphicProject\obj\Debug\GraphicProject.InputForm.resources
